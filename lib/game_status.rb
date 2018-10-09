@@ -57,6 +57,7 @@ end
 
 def winner?(board)
 index = []
+index = won?
 
 
 
