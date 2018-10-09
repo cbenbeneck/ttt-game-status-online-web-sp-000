@@ -33,9 +33,8 @@ WIN_COMBINATIONS = [
         return win_combination
         
       else
+          end 
        return false 
-      end
-    end 
     }
   end
   
