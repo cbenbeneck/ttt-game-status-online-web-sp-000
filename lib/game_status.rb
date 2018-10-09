@@ -61,7 +61,7 @@ def winner?(board)
   if index == false
     return false 
   else 
-    if 
+    if board[index]="X" 
 
 
 
