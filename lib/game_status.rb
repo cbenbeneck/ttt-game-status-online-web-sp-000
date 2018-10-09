@@ -26,7 +26,9 @@ WIN_COMBINATIONS = [
       position_2 = board[win_combo_2]
       position_2 = board[win_combo_3]
       
-      if position_1 == "X" && position_2 == "X" && positon_3 == "X" ||
+      if position_1 == "X" && position_2 == "X" && positon_3 == "X" 
+        
+      else if 
         
         position_1 == "O" && position_2 == "O" && positon_3 == "O" 
         
