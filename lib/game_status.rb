@@ -38,7 +38,7 @@ WIN_COMBINATIONS = [
   end
   
   def full?(board)
-    if board.all? {win_combo
+    if board.all? {index
       return true 
     else return false
   end
