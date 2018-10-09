@@ -38,5 +38,10 @@ WIN_COMBINATIONS = [
   end
   
   def full?(board)
-    if board.any?
+    if board.none?
+      return false 
+    else return true
+  end
+end
+
       
