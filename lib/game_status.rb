@@ -34,6 +34,6 @@ WIN_COMBINATIONS = [
       else
         false 
       end
-    end
+    }
   end
   
