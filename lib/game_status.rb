@@ -58,7 +58,10 @@ end
 def winner?(board)
 index = []
 index = won?(board)
-if index = 
+if index == false
+  return false 
+  
+  
 
 
 
