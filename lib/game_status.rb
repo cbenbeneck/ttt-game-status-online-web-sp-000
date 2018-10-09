@@ -32,7 +32,7 @@ WIN_COMBINATIONS = [
         
         return win_combination
       else
-        false 
+       return false 
       end
     }
   end
