@@ -38,7 +38,7 @@ WIN_COMBINATIONS = [
   end
   
   def full?(board)
-    if board.all? do |full|
+    if board.all?
       return true 
     else return false
   end
